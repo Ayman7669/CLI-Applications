@@ -1,8 +1,5 @@
 {
-  "dependencies": {
-    "init": "^0.1.2"
-  },
-  "name": "file_content_analyzer_cli",
+  "name": "in_memory",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
